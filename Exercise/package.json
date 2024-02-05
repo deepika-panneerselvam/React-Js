@@ -1,0 +1,27 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "React",
+  "main": "app.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepika-panneerselvam/React-Js.git"
+  },
+  "author": "Deepika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepika-panneerselvam/React-Js/issues"
+  },
+  "homepage": "https://github.com/deepika-panneerselvam/React-Js#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
